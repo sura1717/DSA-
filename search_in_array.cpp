@@ -1,3 +1,6 @@
+// linear search using recursion
+
+
 #include<iostream>
 using namespace std;
 bool search(int *arr,int size,int k)
